@@ -1,2 +1,2 @@
 # contrastive_examples_MLIRL
-code for the paper Contrastive Examples in Maximum Likelihood Inverse Reinforcement Learning
+Code for the experiments discussed in the paper Contrastive Examples in Maximum Likelihood Inverse Reinforcement Learning
